@@ -1,0 +1,10 @@
+name: astrbot_plugin_touhou_events
+display_name: 东方活动日历
+short_desc: 查找近期东方展会、茶会和高校例会，支持省市与日期筛选。
+desc: 使用THBWiki公开活动日历，按城市、省份、关键词和日期查询东方展会、茶会与聚会。默认中国未来30天，支持分页、独立详情与出处，查询使用纯文本。
+version: 1.0.0
+author: pachi
+repo: https://github.com/pacholigoooo/astrbot_plugin_touhou_events
+tags: [东方Project, 活动日历, 茶会, 展会]
+support_platforms: [qq_official, qq_official_webhook, aiocqhttp, telegram, webchat]
+astrbot_version: ">=4.26.0,<5"

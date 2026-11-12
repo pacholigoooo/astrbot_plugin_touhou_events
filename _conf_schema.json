@@ -1,0 +1,8 @@
+{
+  "qq_link_domains": {
+    "description": "QQ官方允许发送的来源域名",
+    "type": "list",
+    "default": [],
+    "hint": "普通活动查询和详情始终只发文字。出处命令默认提供THBWiki词条名；如已在QQ机器人后台配置来源域名，可填 thwiki.cc、thbwiki.cc、calendar.thbwiki.cc 以发送对应链接。"
+  }
+}
